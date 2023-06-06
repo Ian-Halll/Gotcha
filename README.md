@@ -21,6 +21,8 @@ Ian Hall
       
 ## License
 This Project Is Licensed Under The MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
       
 ## Questions
 You can reach me via email at ianmatthall@gmail.com
