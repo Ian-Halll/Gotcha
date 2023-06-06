@@ -2,6 +2,8 @@
       
 ## Description
 Gotcha is an SQL2 based command line application for keeping track of employee roles, departments, salaries, and managers, roles, employees, and departments can all be added or updated via the software.
+
+A demonstration of the application's functionality can be found here: https://drive.google.com/file/d/1BEAZT_3aZoIGbYtUE0BXUUIVWgXUJrg4/view
       
 ## Table Of Contents
 - [Installation](#installation)
