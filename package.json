@@ -1,0 +1,25 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "sql based app for tracking employees and departments",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ian-Halll/Gotcha.git"
+  },
+  "author": "Ian Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ian-Halll/Gotcha/issues"
+  },
+  "homepage": "https://github.com/Ian-Halll/Gotcha#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.18.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.3.2"
+  }
+}
